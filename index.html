@@ -418,11 +418,152 @@ h1,h2,h3,h4,h5 {
 .ci-desc { font-size:14px; color:#777; line-height:1.5; }
 .ci-off { color:#777; }
 
+/* SITE VALUE */
+.site-value {
+  position:relative;
+  padding:110px 64px;
+  background:
+    radial-gradient(circle at 18% 20%, rgba(184,144,42,0.12) 0%, transparent 34%),
+    radial-gradient(circle at 82% 78%, rgba(200,32,42,0.12) 0%, transparent 38%),
+    linear-gradient(180deg, var(--black) 0%, var(--black-2) 100%);
+  overflow:hidden;
+}
+.site-value::before {
+  content:'';
+  position:absolute;
+  inset:0;
+  background:
+    linear-gradient(120deg, transparent 0%, rgba(255,255,255,0.02) 45%, transparent 100%);
+  pointer-events:none;
+}
+.site-value-shell {
+  position:relative;
+  max-width:1180px;
+  margin:0 auto;
+  padding:54px;
+  border:1px solid rgba(184,144,42,0.25);
+  background:rgba(15,15,15,0.9);
+  box-shadow:0 30px 80px rgba(0,0,0,0.35);
+}
+.site-value-shell::after {
+  content:'';
+  position:absolute;
+  inset:18px;
+  border:1px solid rgba(255,255,255,0.04);
+  pointer-events:none;
+}
+.site-value-kicker {
+  display:inline-block;
+  font-family:'Barlow Condensed',sans-serif;
+  font-size:11px;
+  font-weight:800;
+  letter-spacing:0.24em;
+  text-transform:uppercase;
+  color:var(--gold);
+  margin-bottom:18px;
+}
+.site-value-title {
+  max-width:860px;
+  font-size:58px;
+  font-weight:900;
+  line-height:0.95;
+  margin-bottom:20px;
+}
+.site-value-title em {
+  color:var(--gold);
+  font-style:normal;
+}
+.site-value-lead {
+  max-width:760px;
+  font-size:17px;
+  color:#b7b7b7;
+  line-height:1.7;
+  margin-bottom:42px;
+}
+.site-value-grid {
+  display:grid;
+  grid-template-columns:repeat(3, minmax(0, 1fr));
+  gap:18px;
+  margin-bottom:26px;
+}
+.site-value-card {
+  min-height:220px;
+  padding:28px 24px;
+  background:linear-gradient(180deg, rgba(255,255,255,0.03) 0%, rgba(255,255,255,0.015) 100%);
+  border:1px solid rgba(255,255,255,0.06);
+}
+.site-value-step {
+  display:inline-block;
+  font-family:'Barlow Condensed',sans-serif;
+  font-size:13px;
+  font-weight:800;
+  letter-spacing:0.18em;
+  text-transform:uppercase;
+  color:var(--red);
+  margin-bottom:18px;
+}
+.site-value-card h3 {
+  font-size:32px;
+  font-weight:900;
+  margin-bottom:12px;
+}
+.site-value-card p {
+  font-size:14px;
+  line-height:1.7;
+  color:#aaaaaa;
+}
+.site-value-proof {
+  display:grid;
+  grid-template-columns:minmax(0, 1.3fr) minmax(260px, 0.7fr);
+  gap:18px;
+}
+.site-value-highlight,
+.site-value-metric {
+  padding:28px 30px;
+  border:1px solid rgba(184,144,42,0.18);
+  background:rgba(0,0,0,0.22);
+}
+.site-value-highlight {
+  font-size:20px;
+  line-height:1.55;
+  color:var(--white);
+}
+.site-value-highlight strong {
+  color:var(--gold);
+}
+.site-value-metric {
+  display:flex;
+  flex-direction:column;
+  justify-content:space-between;
+}
+.site-value-metric-label {
+  font-family:'Barlow Condensed',sans-serif;
+  font-size:12px;
+  font-weight:800;
+  letter-spacing:0.18em;
+  text-transform:uppercase;
+  color:#8d8d8d;
+  margin-bottom:12px;
+}
+.site-value-metric-value {
+  font-family:'Barlow Condensed',sans-serif;
+  font-size:62px;
+  font-weight:900;
+  line-height:0.9;
+  color:var(--gold);
+  margin-bottom:12px;
+}
+.site-value-metric-text {
+  font-size:14px;
+  line-height:1.7;
+  color:#a4a4a4;
+}
+
 /* CTA */
 .cta { background:var(--black-2); padding:100px 64px; text-align:center; position:relative; overflow:hidden; }
 .cta::before { content:''; position:absolute; top:50%;left:50%; transform:translate(-50%,-50%); width:700px;height:700px; background:radial-gradient(circle, rgba(200,32,42,0.05) 0%, transparent 65%); pointer-events:none; }
 .cta-eyebrow { font-family:'Barlow Condensed',sans-serif; font-size:10px; font-weight:700; letter-spacing:0.25em; text-transform:uppercase; color:var(--red); margin-bottom:20px; }
-.cta-title { font-size:68px; font-weight:900; max-width:720px; margin:0 auto 14px; line-height:0.95; }
+.cta-title { font-size:38px; font-weight:900; max-width:720px; margin:0 auto 14px; line-height:0.95; }
 .cta-sub { font-size:14px; color:#555; margin-bottom:48px; }
 .cta-btn { display:inline-flex; align-items:center; gap:10px; background:var(--red); color:var(--white); text-decoration:none; font-family:'Barlow Condensed',sans-serif; font-size:15px; font-weight:700; letter-spacing:0.16em; text-transform:uppercase; padding:16px 44px; transition:background 0.2s, transform 0.15s; }
 .cta-btn:hover { background:#a01820; transform:translateY(-2px); }
@@ -686,13 +827,51 @@ h1,h2,h3,h4,h5 {
         <div><div class="ci-title ci-off"> <span style="font-size: 18px; font-weight: bold; color: gold;">Investimento: R$ 2.500,00</span> <br>
           ● Pagamento em até 5x sem juros ou em até 12x com juros<br> aproximadamente R$ 230 por mês no parcelamento estendido<br>
           ● Hospedagem anual estimada: R$ 160/ano<br>
-
         </div></div>
         </div>
       </div>
 
   </div>
 </div>
+
+<div class="full-sep"></div>
+
+<section class="site-value">
+  <div class="site-value-shell">
+    <span class="site-value-kicker">Por que o site se paga</span>
+    <h2 class="site-value-title">O site n&atilde;o &eacute; s&oacute; uma despesa. <br><em>&Eacute; um ativo digital</em> que continua trabalhando depois de quitado.</h2>
+    <p class="site-value-lead">Na pr&aacute;tica, bastam alguns novos clientes para o investimento come&ccedil;ar a fazer sentido. Depois disso, o site continua online fortalecendo a marca, gerando contatos e criando retorno sem um novo custo de cria&ccedil;&atilde;o.</p>
+
+    <div class="site-value-grid">
+      <div class="site-value-card">
+        <span class="site-value-step">Etapa 01</span>
+        <h3>Agora</h3>
+        <p>Com o site no ar, a marca passa a ter um canal profissional para apresentar o servi&ccedil;o, transmitir mais confian&ccedil;a e captar pessoas que j&aacute; est&atilde;o procurando no Google.</p>
+      </div>
+      <div class="site-value-card">
+        <span class="site-value-step">Etapa 02</span>
+        <h3>Durante o pagamento</h3>
+        <p>Se apenas alguns novos clientes chegarem por esse canal, o investimento j&aacute; come&ccedil;a a se pagar. O site deixa de ser custo e passa a funcionar como ferramenta de retorno.</p>
+      </div>
+      <div class="site-value-card">
+        <span class="site-value-step">Etapa 03</span>
+        <h3>Depois de quitado</h3>
+        <p>No ano seguinte, e tamb&eacute;m nos pr&oacute;ximos, ele continua online trabalhando pela marca, gerando visibilidade e novas oportunidades sem precisar ser comprado de novo.</p>
+      </div>
+    </div>
+
+    <div class="site-value-proof">
+      <div class="site-value-highlight">O ponto principal &eacute; simples: <strong>o dinheiro que deixa de entrar por n&atilde;o ter esse canal ativo, ser&aacute; muito maior do que o pr&oacute;prio valor do site.</strong></div>
+      <div class="site-value-metric">
+        <div>
+          <div class="site-value-metric-label">Leitura estrat&eacute;gica</div>
+          <div class="site-value-metric-value">1 site</div>
+        </div>
+        <div class="site-value-metric-text">Pode continuar gerando autoridade, busca org&acirc;nica e novos contatos por anos, enquanto a maior parte do investimento fica concentrada apenas na cria&ccedil;&atilde;o inicial.</div>
+      </div>
+    </div>
+  </div>
+</section>
 
 <!-- CTA -->
 <div class="cta">
