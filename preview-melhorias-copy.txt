@@ -1,0 +1,255 @@
+PRÉVIA DE MELHORIAS DE COPY
+Projeto: Orçamento Neide Moura
+Arquivo-base analisado: index.html
+
+Objetivo desta prévia
+Mostrar, antes da edição do HTML, o que será melhorado na copy mantendo a estrutura da página intacta.
+
+O que será ajustado em toda a página
+- Corrigir textos com acentuação/codificação quebrada.
+- Deixar o tom mais profissional, confiante e humano.
+- Focar mais em benefício percebido pelo cliente e menos em descrição técnica.
+- Enxugar frases longas e melhorar a escaneabilidade.
+- Fortalecer autoridade, clareza de processo e sensação de segurança.
+- Padronizar títulos, subtítulos, bullets e CTAs.
+- Corrigir pequenos erros gramaticais e de concordância.
+
+Estratégia de copy que vou aplicar
+- Mostrar o cenário atual sem soar negativo demais.
+- Posicionar o site e os canais como ferramentas de crescimento, autoridade e previsibilidade.
+- Destacar que o objetivo não é apenas "ter presença", mas gerar mais confiança e mais oportunidades de agendamento.
+- Transformar listas soltas em argumentos mais claros, persuasivos e organizados.
+
+1. HERO
+
+Como está hoje
+- Abertura forte, mas ainda mais conceitual do que comercial.
+
+Direção de melhoria
+- Manter a força visual.
+- Acrescentar mais clareza sobre resultado e valor da proposta.
+
+Sugestão de ajuste
+Eyebrow:
+"Proposta Estratégica BMS"
+
+Título:
+"Sua presença digital pode trabalhar pela sua marca todos os dias."
+
+Alternativa de título mais impactante:
+"Presença digital não é detalhe.
+É o que faz sua marca ser encontrada, lembrada e escolhida."
+
+Microdireção complementar
+- Se houver espaço no layout, incluir uma frase curta reforçando:
+"A proposta abaixo organiza os canais certos para fortalecer autoridade, aumentar visibilidade e gerar novos contatos."
+
+2. BLOCO "PROBLEMAS IDENTIFICADOS"
+
+Como está hoje
+- Os pontos estão corretos, mas a redação ainda parece checklist interno.
+
+Direção de melhoria
+- Transformar o bloco em diagnóstico estratégico.
+- Mostrar impacto de cada pendência no resultado final.
+
+Sugestão de título
+"Diagnóstico Atual"
+
+Sugestão de texto dos itens
+- Google Meu Negócio otimizado: base importante já estruturada para aumentar a visibilidade de quem procura pelo serviço no Google.
+- Conteúdo no Instagram em progresso: oportunidade de fortalecer posicionamento, consistência e percepção de valor.
+- Site como canal de aquisição: etapa essencial para captar pessoas que já estão buscando pelo serviço no Google.
+- Instagram Ads para geração de agenda: oportunidade de criar previsibilidade de novos contatos e acelerar o volume de oportunidades.
+
+3. BLOCO "CRIAÇÃO DA LANDING PAGE"
+
+Como está hoje
+- O bloco tem informação útil, mas ainda mistura andamento com benefício e execução.
+
+Direção de melhoria
+- Separar melhor o que já foi feito, o que falta e por que isso importa.
+
+Sugestão de subtópico "Criação do Site"
+"A estrutura do site já está avançada, com cerca de 80% do projeto concluído.
+Nesta etapa final, o foco é refinar conteúdo, ajustar materiais e concluir a experiência completa para desktop, tablet e mobile."
+
+Sugestão de bullets do que falta
+- Revisão estratégica da copy e ajustes de conteúdo.
+- Inclusão de melhorias visuais e materiais complementares.
+- Adaptação completa para celular e tablet.
+- Instalação de Google Tag Manager, Google Analytics e Google Search Console.
+
+4. BLOCO "BENEFÍCIOS DO SITE"
+
+Como está hoje
+- Os benefícios existem, mas podem ficar mais elegantes, mais diretos e mais orientados ao cliente.
+
+Direção de melhoria
+- Transformar os parágrafos em benefícios mais escaneáveis e com promessa mais clara.
+
+Sugestão de reescrita
+- Trabalha pela sua marca enquanto você atende.
+O site continua apresentando seu trabalho, esclarecendo dúvidas e encaminhando novos contatos mesmo quando você está focada nos atendimentos.
+
+- Atrai pessoas com maior intenção de contratação.
+Quem chega pelo Google normalmente já está procurando exatamente o serviço. Isso aumenta a chance de contato qualificado.
+
+- Reforça autoridade e confiança antes da conversa.
+Um site bem construído valoriza sua imagem, apresenta seu diferencial e transmite mais segurança já no primeiro contato.
+
+- Cria base para ser encontrada no Google.
+Com estrutura otimizada, o site deixa de ser apenas uma vitrine e passa a funcionar como canal de aquisição orgânica.
+
+- Gera dados para decisões mais inteligentes.
+Com rastreamento instalado, fica mais fácil entender de onde vêm os acessos, o que chama mais atenção e como melhorar a estratégia ao longo do tempo.
+
+5. BLOCO "MENSURAÇÃO E APRENDIZADO"
+
+Como está hoje
+- A ideia é boa, mas o texto pode transmitir mais clareza e autoridade.
+
+Sugestão de reescrita
+"Cada visita, clique e interação ajuda a entender melhor o comportamento do público.
+Com isso, o projeto evolui com base em dados reais, aumentando a capacidade de atrair pessoas mais qualificadas ao longo do tempo."
+
+6. BLOCO "ENTREGÁVEIS — LANDING PAGE"
+
+Direção geral
+- Manter os cards.
+- Reescrever as descrições para ficarem mais comerciais, claras e consistentes.
+
+Exemplos de melhoria
+
+Página Híbrida
+De:
+"Landing Page de conversão + apresentação institucional..."
+Para:
+"Página pensada para converter contatos e, ao mesmo tempo, apresentar a marca com mais autoridade, clareza e profissionalismo."
+
+Design Personalizado
+Para:
+"Aplicação da identidade visual da marca em toda a página, criando uma apresentação coerente, profissional e alinhada ao posicionamento desejado."
+
+Copywriting das Seções
+Para:
+"Textos planejados para conduzir a leitura, valorizar o serviço e aumentar a chance de contato ao longo da página."
+
+Portfólio Integrado
+Para:
+"Galeria estratégica para reforçar qualidade, resultado e confiança antes mesmo da conversa no WhatsApp."
+
+CTA Direto para WhatsApp
+Para:
+"Chamadas para ação posicionadas de forma estratégica para reduzir atrito e facilitar o contato imediato."
+
+Responsivo
+Para:
+"Experiência adaptada para celular, tablet e desktop, priorizando o ambiente onde a maioria das decisões começa: o mobile."
+
+SEO On-page
+Para:
+"Estrutura preparada para melhorar a leitura do Google e aumentar as chances de visibilidade nas buscas certas."
+
+Ferramentas de Rastreio
+Para:
+"Instalação das principais ferramentas do Google para acompanhar desempenho, origem dos acessos e evolução da estratégia."
+
+Testes de Performance
+Para:
+"Validação de carregamento, navegação e funcionamento da página antes da entrega final."
+
+Prazo de Entrega
+Para:
+"Conclusão em até 10 dias após o recebimento dos materiais necessários, com o projeto já em andamento."
+
+7. BLOCO "COMO ACONTECE NA PRÁTICA"
+
+Direção de melhoria
+- Deixar o processo mais seguro, simples e profissional.
+
+Sugestão de texto lateral
+"Um processo direto, com foco em agilidade, clareza e resultado.
+Usamos referências que já funcionam no mercado e adaptamos tudo à identidade e ao posicionamento da Neide Moura."
+
+Sugestão de passos
+
+1. Coleta de referências e materiais
+"Reunião das informações essenciais para a página: identidade visual, fotos, depoimentos, serviços, diferenciais e referências de estilo."
+
+2. Construção do projeto
+"Desenvolvimento completo da página, unindo estrutura, design, copy e experiência de navegação com foco em conversão."
+
+3. Aprovação, ajustes finais e rastreio
+"Validação da página, revisão final, otimização técnica e instalação das ferramentas de monitoramento para acompanhar os resultados."
+
+8. BLOCO "GOOGLE MEU NEGÓCIO"
+
+Como está hoje
+- O bloco comunica melhora, mas ainda parece rascunho e tem erros de escrita.
+
+Sugestão de reescrita
+Título:
+"Google Meu Negócio"
+
+Subtexto:
+"A ficha da empresa foi atualizada e otimizada para fortalecer a marca, melhorar o direcionamento dos clientes e ampliar a visibilidade nas buscas locais."
+
+Alternativa mais comercial
+"A presença no Google já começou a ser fortalecida, criando uma base importante para aumentar visibilidade e gerar mais oportunidades de contato local."
+
+9. BLOCO "CRONOGRAMA E OFERTA"
+
+Direção de melhoria
+- Manter a lógica do cronograma.
+- Melhorar clareza, leitura e peso comercial do bloco final com investimento.
+
+Sugestão para o mês do site
+"Construção do site profissional com foco em autoridade, conversão e rastreamento de resultados."
+
+Sugestão para investimento
+"Investimento: R$ 2.500,00
+Pagamento em até 5x sem juros ou em até 12x com juros.
+Hospedagem anual estimada: R$ 160,00 por ano."
+
+Observação importante
+- Se você quiser, eu também posso reorganizar esse trecho para o valor ficar mais elegante visualmente dentro do HTML, sem mudar a estrutura principal.
+
+10. CTA FINAL
+
+Como está hoje
+- O botão está bom, mas o texto de apoio pode vender melhor o fechamento.
+
+Direção de melhoria
+- Fechar com convite claro, objetivo e profissional.
+- Evitar frase longa com impacto menor para proposta comercial.
+
+Sugestão de título
+"Vamos transformar sua presença digital em um canal real de crescimento?"
+
+Sugestão de subtítulo
+"Se a proposta fizer sentido para você, o próximo passo é simples: alinhamos os detalhes finais e colocamos o projeto em andamento."
+
+Sugestão de botão
+"Falar no WhatsApp"
+
+11. AJUSTES TÉCNICOS DE TEXTO
+
+Também pretendo corrigir
+- Capitalização inconsistente.
+- Termos repetidos ou pouco naturais.
+- Frases com pontuação quebrada.
+- Pequenos erros como "monitoraramento", "cleintes", "costruindo", entre outros.
+
+12. O QUE NÃO VOU MEXER SEM SUA APROVAÇÃO
+
+- Estrutura principal do HTML.
+- Classes CSS e organização visual base.
+- Valores e condições comerciais.
+- Links, botões e imagens.
+
+Próximo passo sugerido
+Se você aprovar esta direção, eu faço a segunda etapa:
+- editar o index.html;
+- manter o HTML completo;
+- devolver a página com a copy já melhorada.
